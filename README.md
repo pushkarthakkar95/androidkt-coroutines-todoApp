@@ -6,6 +6,7 @@ Simple android application that allows user to add "to do" items to track things
 
   - Kotlin
   - Room Persistence Library (Jetpack library)
+  - MVVM
   - Kotlin Coroutines
   - Databinding with RecyclerView
   - ItemTouchHelper (for swipe feature)
